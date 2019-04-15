@@ -1,5 +1,7 @@
 {
   "name": "sudbury-transit",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
